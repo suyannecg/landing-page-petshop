@@ -17,8 +17,12 @@ A proposta do desafio era criar um página de apresentação comercial, com info
 O formulário exibe uma mensagem de confirmação, mas não há envio de dados para um serviço de atendimento. Os links das redes sociais são ilustrativos e ainda não possuem destino configurado.
 
 ## Visualização
-1. Clone o repositório
-2. Execute o arquivo index.html via LiveServer.
+1. [Meu MiAu Pet Shop](https://suyannecg.github.io/meu-miau-petshop/)
+
+OU
+
+2. Clone o repositório e execute o arquivo index.html via LiveServer.
+
 
 ## Status
 Projeto em desenvolvimento.
